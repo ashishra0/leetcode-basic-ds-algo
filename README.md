@@ -6,3 +6,4 @@
 2. (Remove element)[https://leetcode.com/problems/remove-element]
 3. (Concatenation of Array)[https://leetcode.com/problems/concatenation-of-array]
 4. (Baseball game)[https://leetcode.com/problems/baseball-game]
+5. (Valid parentheses)[https://leetcode.com/problems/valid-parentheses]
