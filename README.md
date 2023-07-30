@@ -14,3 +14,7 @@
 
 1. [Reverse linked list](https://leetcode.com/problems/reverse-linked-list)
 2. [Merge linked list](https://leetcode.com/problems/merge-two-sorted-lists)
+
+### Bitwise Manipulation
+
+1. [number of 1 bits](https://leetcode.com/problems/number-of-1-bits)
