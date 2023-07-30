@@ -8,3 +8,7 @@
 4. (Baseball game)[https://leetcode.com/problems/baseball-game]
 5. (Valid parentheses)[https://leetcode.com/problems/valid-parentheses]
 6. (Min stack)[https://leetcode.com/problems/min-stack]
+
+### Linked Lists
+
+1. (Reverse linked list)[https://leetcode.com/problems/reverse-linked-list]
