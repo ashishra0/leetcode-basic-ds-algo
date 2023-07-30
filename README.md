@@ -12,3 +12,4 @@
 ### Linked Lists
 
 1. (Reverse linked list)[https://leetcode.com/problems/reverse-linked-list]
+2. (Merge linked list)[https://leetcode.com/problems/merge-two-sorted-lists]
