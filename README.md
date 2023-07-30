@@ -8,6 +8,7 @@
 4. (Baseball game)[https://leetcode.com/problems/baseball-game]
 5. (Valid parentheses)[https://leetcode.com/problems/valid-parentheses]
 6. (Min stack)[https://leetcode.com/problems/min-stack]
+7. (Car fleet)[https://leetcode.com/problems/car-fleet]
 
 ### Linked Lists
 
